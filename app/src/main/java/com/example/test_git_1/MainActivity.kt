@@ -10,5 +10,10 @@ class MainActivity : AppCompatActivity() {
         val a = 111
         val b = 222
         val c = 333
+
+
+
+        val test1 = 0
+        val test2 = 0
     }
 }
